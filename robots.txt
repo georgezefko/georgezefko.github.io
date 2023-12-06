@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://georgioszefkilis.github.io/georgezefko/sitemap.xml
+Sitemap: https://georgioszefkilis.github.io/georgezefko//sitemap.xml
