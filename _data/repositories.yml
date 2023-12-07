@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - georgezefko
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - georgezefko/Anomaly-Detection-for-Sequential-Data
+  - georgezefko/Synthetic-Data-Generation
+  - georgezefko/Bayesian_Deep_Learning
+  - georgezefko/mageai-etl-finance
