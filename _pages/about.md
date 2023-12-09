@@ -16,12 +16,14 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey there I am George (Giorgos or Georgios in Greek)! 
+Hey there,
 
-I'm all about diving deep into the world of data and software engineering. It's not just a career for me; it's a passion. Think of me as a tech enthusiast with a green heart, always on the lookout for ways to mesh cutting-edge tech with sustainable solutions.
+Welcome to my portfolio showcasing my work and projects in various areas of interest. Explore the projects and posts to get a glimpse of my skills and experiences across different domains.
 
-My journey started with environmental engineering, but a curious mind and a drive for innovation led me to the fascinating realms of Data Analytics, AI, and everything tech. After wrapping up my master's in Human-Centered Artificial Intelligence at DTU, I knew I was on the right path.
+I am George (Giorgos or Georgios in Greek) and I'm passionate about technology, data, and making an impact.
 
-I get a kick out of tackling those tough, twisty problems with smart, data-driven approaches. And why not have a bit of fun along the way, right? My goal? To be the go-to person who helps businesses not just succeed but do so sustainably and innovatively. 
+I'm a Data/Software Engineer with a love for engineering and a keen interest in developing robust software solutions and optimizing data processes to drive innovation.
 
-Let's make the digital world a bit greener, one data solution at a time!
+When I'm not coding, you can find me exploring the world through travel, getting in shape with calisthenics, getting lost in the beats of techno music or reading a book
+
+Feel free to get in touch with me for any inquiries, collaboration opportunities, or just to say hello! I'm always open to connecting with fellow professionals and enthusiasts in the tech and data engineering fields.
