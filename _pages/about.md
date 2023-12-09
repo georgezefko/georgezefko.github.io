@@ -24,6 +24,6 @@ I am George (Giorgos or Georgios in Greek) and I'm passionate about technology, 
 
 I'm a Data/Software Engineer with a love for engineering and a keen interest in developing robust software solutions and optimizing data processes to drive innovation.
 
-When I'm not coding, you can find me exploring the world through travel, getting in shape with calisthenics, getting lost in the beats of techno music or reading a book
+When I'm not coding, you can find me exploring the world through travel, getting in shape with calisthenics, getting lost in the beats of techno music or reading a book.
 
 Feel free to get in touch with me for any inquiries, collaboration opportunities, or just to say hello! I'm always open to connecting with fellow professionals and enthusiasts in the tech and data engineering fields.
