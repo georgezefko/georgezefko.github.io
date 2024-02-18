@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>From Greece based in Copenhagen Denmark</p>
+    <p>Based in Copenhagen Denmark</p>
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,7 +20,7 @@ Hey there,
 
 Welcome to my portfolio showcasing my work and projects in various areas of interest. Explore the projects and posts to get a glimpse of my skills and experiences across different domains.
 
-I am George (Giorgos or Georgios in Greek) and I'm passionate about technology, data, and making an impact.
+I am George (Giorgos) and I'm passionate about technology, data, and making an impact.
 
 I'm a Data/Software Engineer with a love for engineering and a keen interest in developing robust software solutions and optimizing data processes to drive innovation.
 
