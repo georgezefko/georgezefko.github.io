@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Finance-Tracker App
-description: Built an App for tracking personal finances using NodeJS, ExpressJS, PostgreSQL, ReactJS, Typescript
+title: Building a Personal Finance Management App
+description: Integrating REST API, Node.js, Express.js, TypeScript, PostgreSQL, and Docker
+
 img: assets/img/finance-tracker.jpg
 redirect: https://github.com/georgezefko/finance-tracker
 importance: 2
