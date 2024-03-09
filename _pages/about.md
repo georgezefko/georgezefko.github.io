@@ -20,7 +20,7 @@ Hey there,
 
 Welcome to my portfolio showcasing my work and projects in various areas of interest. Explore the projects and posts to get a glimpse of my skills and experiences across different domains.
 
-I am George (Giorgos) and I'm passionate about technology, data, and making an impact.
+I am George and I'm passionate about technology, data, and making an impact.
 
 I'm a Data/Software Engineer with a love for engineering and a keen interest in developing robust software solutions and optimizing data processes to drive innovation.
 
