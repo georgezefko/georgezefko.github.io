@@ -5,7 +5,7 @@ description: Kubernetes, Argo CD, GitOps
 
 img: assets/img/platfromEng.jpg
 redirect: https://github.com/georgezefko/kubernetes-roadmap
-importance: 2
+importance: 3
 category: software
 ---
 
