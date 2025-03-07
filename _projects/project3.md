@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Platform Engineering
+title: Platform Engineering Tutorials
 description: Kubernetes, Argo CD, GitOps
 
 img: assets/img/platfromEng.jpg
