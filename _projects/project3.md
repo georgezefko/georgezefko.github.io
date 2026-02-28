@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Platform Engineering Tutorials
+title: Data Platform Engineering Tutorials
 description: Kubernetes, Argo CD, GitOps
 
 img: assets/img/platformEng.jpg
-redirect: https://github.com/georgezefko/kubernetes-roadmap
+redirect: https://github.com/georgezefko/data-platform-engineering
 importance: 3
 category: software
 ---
