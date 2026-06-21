@@ -156,6 +156,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@georgioszefkilis/feed
+  - name: substack.com
+    rss_url: https://georgioszefkilis.substack.com/feed
 
 # -----------------------------------------------------------------------------
 # Collections
